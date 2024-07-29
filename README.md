@@ -1,0 +1,2 @@
+# HomeWork
+Right Triangle Pattern
